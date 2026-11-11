@@ -50,7 +50,7 @@ Este repositorio reúne los entregables del bootcamp: fundamentos de Python, SQL
 ## Cómo ejecutar
 
 ```bash
-git clone https://github.com/JorgeVex/<nombre-del-repo>.git
+git clone https://github.com/JorgeVex/Bootcamp_DataScience
 pip install pandas numpy matplotlib seaborn scikit-learn lightgbm requests
 ```
 
